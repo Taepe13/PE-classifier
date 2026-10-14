@@ -1,4 +1,4 @@
-# pe-classifier (C++)
+# PE-classifier (C++)
 
 A PE analysis tool via C++ that extracts headers, sections, imports from PE-file with entropy analysis and feature exctraction
 
